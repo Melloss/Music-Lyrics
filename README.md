@@ -1,5 +1,6 @@
 # Music Website
 This site enable users to create Music Lyrics with some detail.
+-- pls wait until it fetches data from API --
 
 Link : https://music-website-830fe.web.app
 
